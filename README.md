@@ -50,6 +50,6 @@
 
 <hr/>
 
-  <img src="https://raw.githubusercontent.com/xKrysti4n/xKrysti4n/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/xKrysti4n/xKrysti4n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <hr/>
