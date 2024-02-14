@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">A passionate about everything related to IT</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkrysti4n&theme=onedark&row=2&column=3" alt="xkrysti4n" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkrysti4n&theme=onedark&row=2&column=3" alt="xkrysti4n" /></a> </p>
 
 - 🌱 I’m currently learning **python, javascript, react, cybersecurity**
 
