@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Krysti4n" />
 </h1>
-<h3 align="center">A passionate about everything related to IT</h3>
+<h2 align="center">A passionate about everything related to IT</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkrysti4n" alt="xkrysti4n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xkrysti4n&theme=onedark" alt="xkrysti4n" /></a> </p>
 
 - 🌱 I’m currently learning **python, javascript, react, cybersecurity**
 
