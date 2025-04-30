@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Krysti4n" />
 </h1>
 
-<a href="https://tryhackme.com/p/letgamer">
+<a href="https://tryhackme.com/p/Krysti4n">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Krysti4n.png" alt="THM Badge" style="width: 315px; height: auto;"/>
 </a>
 
