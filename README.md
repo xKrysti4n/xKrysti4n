@@ -7,8 +7,6 @@
 
 Zobacz więcej na [moim profilu na TryHackMe](https://tryhackme.com/profiles/4664729).
 
-
-
 <hr/>
 
   <img src="https://raw.githubusercontent.com/xKrysti4n/xKrysti4n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
