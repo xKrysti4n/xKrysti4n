@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://tryhackme.com/p/letgamer">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Krysti4n.png" alt="THM Badge" style="width: 215px; height: auto;"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Krysti4n.png" alt="THM Badge" style="width: 415px; height: auto;"/>
 </a>
 
 <hr/>
